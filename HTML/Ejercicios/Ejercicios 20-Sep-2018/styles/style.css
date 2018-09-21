@@ -5,3 +5,9 @@ body{
 .mundo{
     height: 200px;
 }
+
+.boton{
+    background: black;
+    color: white;
+    border: none;
+}
