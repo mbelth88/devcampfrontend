@@ -1,0 +1,77 @@
+
+*{
+  box-sizing: border-box;
+}
+
+h1{
+  text-align: center;
+}
+
+.user-data input{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
+  width: 80%;
+  height: 40px;
+
+}
+
+header{
+  height: 200px;
+  -ms-align-items: center;
+  align-items: center;
+}
+
+.button{
+  margin-top: 20px;
+  width: 80%;
+  height: 60px;
+  background-color: black;
+  color: white;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.user-data{
+  height: 270px;
+  width: 95vw;
+  align-content: center;
+}
+
+img.logo{
+  height: 100px;
+  width: 100%;
+}
+
+.login img{
+  width: 30px;
+}
+
+.face-log{
+  float: left;
+  margin-left: 130px;
+}
+
+.google-log{
+  float: right;
+  margin-right: 130px;
+}
+
+p{
+  margin-left: 10%;
+}
+
+.logos{
+  height: 30px;
+  width: 100%;
+}
+
+p.register{
+  line-height: 30px;
+}
+
+.register a{
+  color: red;
+  text-decoration: none;
+}
